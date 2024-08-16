@@ -51,14 +51,10 @@
   </a>
 </p>
 
-<p>
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briannguyen1507&show_icons=true&locale=en&layout=compact&theme=dark" alt="briannguyen1507" />
-</p>
 
-<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=briannguyen1507&show_icons=true&locale=en&theme=dark" alt="briannguyen1507" />
-</p>
 
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briannguyen1507&theme=dark" alt="briannguyen1507" />
-</p>
+</div>
