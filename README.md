@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hieuphi-nguyen" target="_blank">
+  <a href="https://www.linkedin.com/in/briannguyen2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/hieu.phinguyen" target="_blank">
+  <a href="https://www.instagram.com/_iambri4n/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:phihieu1507@gmail.com" target="_blank">
