@@ -73,9 +73,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=briannguyen1507&theme=dark" alt="briannguyen1507" />
 </div>
-
----
-<h3 align="left">📊 GitHub Activity</h3>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=briannguyen1507&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
