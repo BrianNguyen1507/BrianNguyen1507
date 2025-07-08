@@ -1,15 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hieu+Phi+Nguyen;Fullstack+Developer;AI+Enthusiast;Coding+is+my+superpower!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Brian+Nguyen;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=briannguyen1507&theme=radical&margin-w=10&margin-h=10" alt="trophy" />
-  </a>
-</p>
+
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=briannguyen1507" alt="visitor badge"/>
   <img src="https://komarev.com/ghpvc/?username=briannguyen1507&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
@@ -21,7 +16,7 @@
 - 🧠 I love building scalable, high-performance web & mobile apps.
 - 🏆 Top performer in multiple hackathons and coding challenges.
 - 💡 Always learning, always innovating, always delivering value.
-
+R
 ---
 
 ## 🛠️ Tech Stack
