@@ -14,9 +14,7 @@
 
 - 🔭 I'm a passionate **Fullstack Developer** with a strong focus on .NET, React, and Mobile (Flutter).
 - 🧠 I love building scalable, high-performance web & mobile apps.
-- 🏆 Top performer in multiple hackathons and coding challenges.
 - 💡 Always learning, always innovating, always delivering value.
-R
 ---
 
 ## 🛠️ Tech Stack
